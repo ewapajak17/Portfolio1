@@ -1,22 +1,20 @@
-# Write in DITA <!--omit in toc-->
+# Write in DITA <!-- omit in toc -->
+
+- [Install Oxygen XML Author](#install-oxygen-xml-author)
+- [Create a Project](#create-a-project)
+- [Create a DITA Map](#create-a-dita-map)
+- [Create a Topic](#create-a-topic)
+- [Reference the Topic from the Map](#reference-the-topic-from-the-map)
+- [Transform the DITA XML into Deliverable Input Format](#transform-the-dita-xml-into-deliverable-input-format)
+- [Reference a Map](#reference-a-map)
+- [Configure Oxygen XML Author to Use Profiling](#configure-oxygen-xml-author-to-use-profiling)
+  - [Adjust Settings](#adjust-settings)
+  - [Profile a DITA Map](#profile-a-dita-map)
+  - [Profile a Topic](#profile-a-topic)
+  - [Profile a Topic Item](#profile-a-topic-item)
+  - [Profile a Table Row](#profile-a-table-row)
 
 ## Install Oxygen XML Author
-
-- [Write in DITA ](#write-in-dita-)
-  - [Install Oxygen XML Author](#install-oxygen-xml-author)
-  - [Create a Project](#create-a-project)
-  - [Create a DITA Map](#create-a-dita-map)
-  - [Create a Topic](#create-a-topic)
-  - [Reference the Topic from the Map](#reference-the-topic-from-the-map)
-  - [Transform the DITA XML into Deliverable Input Format](#transform-the-dita-xml-into-deliverable-input-format)
-  - [Reference a Map](#reference-a-map)
-  - [Configure Oxygen XML Author to Use Profiling](#configure-oxygen-xml-author-to-use-profiling)
-    - [Adjust Settings](#adjust-settings)
-    - [Profile a DITA Map](#profile-a-dita-map)
-    - [Profile a Topic](#profile-a-topic)
-    - [Profile a Topic Item](#profile-a-topic-item)
-    - [Profile a Table Row](#profile-a-table-row)
-
 
 1. Go to https://www.oxygenxml.com/.
 2. From the **Products** drop-down, select **XML Oxygen Author**.
