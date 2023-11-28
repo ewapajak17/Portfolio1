@@ -1,26 +1,25 @@
-# Get Started with Trello <!--omit in toc-->
+# Get Started with Trello <!-- omit in toc -->
 
 Trello is a visual work management tool used to manage the shopping effectively. These instructions cover the steps to create a shopping list with cards and checklists, assign cards to members and set dates. This tool enables keeping the shopping list in one place and saving time.
 
-- [Get Started with Trello ](#get-started-with-trello-)
-  - [Create a Board](#create-a-board)
-    - [First option](#first-option)
-    - [Second option](#second-option)
-  - [Invite Members to Workspace](#invite-members-to-workspace)
-    - [First option](#first-option-1)
-    - [Second option](#second-option-1)
-  - [Create Lists on Board](#create-lists-on-board)
-    - [First option](#first-option-2)
-    - [Second option](#second-option-2)
-  - [Add Cards to List](#add-cards-to-list)
-  - [Add Checklists to Cards](#add-checklists-to-cards)
-    - [Add Checklist to Vegetable List](#add-checklist-to-vegetable-list)
-    - [Add Checklist to Fruit List](#add-checklist-to-fruit-list)
-  - [Assign Card to Board Member](#assign-card-to-board-member)
-  - [Set Date and Date Reminder](#set-date-and-date-reminder)
-  - [Move Card from To Buy to Bought](#move-card-from-to-buy-to-bought)
-    - [First option](#first-option-3)
-    - [Second option](#second-option-3)
+- [Create a Board](#create-a-board)
+  - [First option](#first-option)
+  - [Second option](#second-option)
+- [Invite Members to Workspace](#invite-members-to-workspace)
+  - [First option](#first-option-1)
+  - [Second option](#second-option-1)
+- [Create Lists on Board](#create-lists-on-board)
+  - [First option](#first-option-2)
+  - [Second option](#second-option-2)
+- [Add Cards to List](#add-cards-to-list)
+- [Add Checklists to Cards](#add-checklists-to-cards)
+  - [Add Checklist to Vegetable List](#add-checklist-to-vegetable-list)
+  - [Add Checklist to Fruit List](#add-checklist-to-fruit-list)
+- [Assign Card to Board Member](#assign-card-to-board-member)
+- [Set Date and Date Reminder](#set-date-and-date-reminder)
+- [Move Card from To Buy to Bought](#move-card-from-to-buy-to-bought)
+  - [First option](#first-option-3)
+  - [Second option](#second-option-3)
 
 
 
